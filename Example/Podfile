@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'DSignerClients_Example' do
+  pod 'DSignerClients', :path => '../'
+
+  target 'DSignerClients_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (5.6.2)
+  - DSignerClients (1.0.0):
+    - Alamofire (= 5.6.2)
+
+DEPENDENCIES:
+  - DSignerClients (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+EXTERNAL SOURCES:
+  DSignerClients:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  DSignerClients: 690f4fa677b307f764c516d1f1f065e44db906ec
+
+PODFILE CHECKSUM: 913a455750b69732eb95add1a858d1716fcdd925
+
+COCOAPODS: 1.11.3
