@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DSignerClients'
-  s.version          = '1.0.0'
+  s.version          = '1.0.2'
   s.summary          = 'A SDK of DSigner for ios'
   s.description      = 'A SDK of DSigner for signing files'
   s.homepage         = 'https://www.develsystems.com'
